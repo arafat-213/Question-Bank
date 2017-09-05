@@ -9,6 +9,11 @@ public class Main {
 		Arr[1] = new Donkey();
 		Arr[2] = new Camel();
 		Arr[3] = new Deer();
+		
+		// There's an error in this one.. It should work but it's not working.. .GAWWWD I hate my life..
+		
+		// Proceed with caution :O
+		
 		for(int i=0;i<4;i++) {
 			if(Arr[i] instanceof Donkey)
 				Arr[i].deliever();
