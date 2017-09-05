@@ -8,11 +8,11 @@ public class Fan {
 	String color;
 
 	public Fan() {
-		f_on = false;
+		f_on = false; 
 		speed = SLOW;
 		color = "blue";
 	}
-
+	
 	public Fan(String color, int speed, int radius, boolean state) {
 		this.color = color;
 		this.speed = speed;
