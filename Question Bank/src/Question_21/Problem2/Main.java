@@ -15,7 +15,7 @@ public class Main {
 		// Proceed with caution :O
 		
 		for(int i=0;i<4;i++) {
-			if(Arr[i] instanceof Donkey)
+			if(Arr[i] instanceof Transport)
 				Arr[i].deliever();
 		}
 	}
