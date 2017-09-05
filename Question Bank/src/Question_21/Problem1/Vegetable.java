@@ -3,11 +3,10 @@ package Question_21.Problem1;
 public abstract class Vegetable {
 	String color;
 	String name;
-	//public abstract String  toString();
 	public abstract String sayMyName();
+	
 	@Override
 	public String toString() {
-		// TODO Auto-generated method stub
 		return sayMyName();
 	}
 	
