@@ -11,7 +11,6 @@ public class Main{
 		System.out.println(B1);
 		
 		Tomato T1= new Tomato();
-		//T1.sayMyName();
 		System.out.println(T1);
 	}
 }
