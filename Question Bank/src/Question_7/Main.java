@@ -10,5 +10,4 @@ public class Main {
 		q1.methodP2();
 		q1.methodP12();
 	}
-
 }
