@@ -1,4 +1,4 @@
-/*Write a program that illustrates interface inheritance. Interface P is extended by
+/* Write a program that illustrates interface inheritance. Interface P is extended by
 P1 and P2. Interface P12 inherits from both P1 and P2.Each interface declares one
 constant and one method. class Q implements P12.Instantiate Q and invoke each
 of its methods. Each method displays one of the constants */
